@@ -1,1 +1,1 @@
-# get-btc
+# get-snedtankt
